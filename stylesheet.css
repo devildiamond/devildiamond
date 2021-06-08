@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'adieulight';
-    src: url('adieu_light-webfont.woff2') format('woff2'),
-         url('adieu_light-webfont.woff') format('woff');
+    src: url('https://github.com/devildiamond/devildiamond/blob/main/adieu_light-webfont.woff2') format('woff2'),
+         url('https://github.com/devildiamond/devildiamond/blob/main/adieu_light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
